@@ -7,9 +7,12 @@
 	[
 		"Better CoffeeScript",
 		"Case Conversion",
+		"GitGutter",
 		"nginx",
 		"Package Control",
 		"Ruby Slim",
-		"Sass"
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-rubocop"
 	]
 }
