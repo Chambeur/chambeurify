@@ -1,4 +1,9 @@
 {
+	"binary_file_patterns":
+	[
+		"node_modules/",
+		"tmp/"
+	],
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 12.0,
 	"ignored_packages":
@@ -12,7 +17,7 @@
 	],
 	"rulers":
 	[
-		99
+		100
 	],
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,

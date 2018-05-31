@@ -1,4 +1,9 @@
 [alias]
   co = checkout
   s = status
-  
+  pushf = push --force-with-lease
+  cm = commit
+  pr = pull-request
+[user]
+  name = Chambeur
+  email = marc.chamberlin@gmail.com

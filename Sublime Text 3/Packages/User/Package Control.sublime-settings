@@ -9,11 +9,12 @@
 		"Better CoffeeScript",
 		"Case Conversion",
 		"GitGutter",
+		"Handlebars",
+		"JSONLint",
 		"nginx",
 		"Package Control",
 		"Ruby Slim",
 		"Sass",
-		"SublimeLinter",
-		"SublimeLinter-rubocop"
+		"SublimeLinter"
 	]
 }
